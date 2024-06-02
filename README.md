@@ -10,6 +10,9 @@
 - ₿  I have been investing for many years and my specialty is cryptocurrencies 📈
 - ⚡ Languages: Native Spanish, Intermediate English
 
+
+---
+
 ### 🚀 Coding 
 
 <p align="center">
