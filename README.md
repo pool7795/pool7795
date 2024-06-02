@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/paul-bautista/"><img src="https://img.shields.io/badge/-Paul%20Bautista%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pbautistam@unsa.edu.pe"><img src="https://img.shields.io/badge/-pbautistam@unsa.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
